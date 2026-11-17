@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**tahaahmad2580-lgtm/tahaahmad2580-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Taha Ahmad 👋
 
-Here are some ideas to get you started:
+### Data Management | Python Automation | Web Scraping | E-commerce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a results-driven professional with experience in data management, web scraping, Python automation, product research, and e-commerce operations.
+
+I enjoy building automation tools, processing large datasets, and finding efficient solutions to business problems.
+
+---
+
+## 🚀 My Skills
+
+- **Python:** Web Scraping, Data Processing, Automation
+- **Excel:** Advanced Excel, Data Analysis, Dashboards
+- **Web Scraping:** BeautifulSoup, Scrapy, Data Extraction
+- **E-commerce:** eBay Store Management, Product Research
+- **Digital Marketing:** Meta Ads Campaign Management
+- **Data Management:** Data Cleaning, Sorting, Organization
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Microsoft Excel
+- BeautifulSoup
+- Scrapy
+- Git & GitHub
+- APIs
+
+## 🤝 Let's Connect
+
+- GitHub: [My GitHub](https://github.com/tahaahmad2580-lgtm)
+
+---
+
+⭐ Thanks for visiting my profile!
