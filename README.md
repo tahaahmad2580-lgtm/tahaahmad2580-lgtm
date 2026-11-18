@@ -1,36 +1,23 @@
+# Hi, I'm Taha Ahmad
 
-# Hi, I'm Taha Ahmad 👋
+**Data Management · Python Automation · Web Scraping · eBay & Product Research**
 
-### Data Management | Python Automation | Web Scraping | E-commerce
+I support business workflows with structured data, practical automation, and e-commerce research.
 
-I'm a results-driven professional with experience in data management, web scraping, Python automation, product research, and e-commerce operations.
+## Focus areas
 
-I enjoy building automation tools, processing large datasets, and finding efficient solutions to business problems.
+- **Data management:** data cleaning, organization, sorting, validation, Excel analysis, and dashboards.
+- **Python automation and web scraping:** automate repeatable data tasks and collect or process data with Python, BeautifulSoup, and Scrapy.
+- **eBay and product research:** research product opportunities and support eBay store operations.
+- **Digital marketing:** on-page and off-page SEO, plus Meta Ads campaign management.
 
----
+## Tools
 
-## 🚀 My Skills
+Python · Microsoft Excel · BeautifulSoup · Scrapy · APIs · Git & GitHub
 
-- **Python:** Web Scraping, Data Processing, Automation
-- **Excel:** Advanced Excel, Data Analysis, Dashboards
-- **Web Scraping:** BeautifulSoup, Scrapy, Data Extraction
-- **E-commerce:** eBay Store Management, Product Research
-- **Digital Marketing:** Meta Ads Campaign Management
-- **Data Management:** Data Cleaning, Sorting, Organization
+## Let's connect
 
-## 🛠️ Tools & Technologies
+- GitHub: [@tahaahmad2580-lgtm](https://github.com/tahaahmad2580-lgtm)
+- X: [@TahaAhm27343525](https://x.com/TahaAhm27343525)
 
-- Python
-- Microsoft Excel
-- BeautifulSoup
-- Scrapy
-- Git & GitHub
-- APIs
-
-## 🤝 Let's Connect
-
-- GitHub: [My GitHub](https://github.com/tahaahmad2580-lgtm)
-
----
-
-⭐ Thanks for visiting my profile!
+Open to remote projects and collaborations in these areas.
